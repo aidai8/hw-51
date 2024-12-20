@@ -40,3 +40,30 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+h1 {
+  margin-top: 20px;
+  color: lightpink;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: lightpink;
+  color: white;
+}
